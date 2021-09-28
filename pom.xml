@@ -56,4 +56,12 @@
       </plugin>
     </plugins>
   </build>
+<distributionManagement>
+<repository>
+<id>maven-DM</id>
+<name>maven-DM</name>
+<url>http://nexus-nexus.apps.cluster-wwmwt.wwmwt.sandbox88.opentlc.com/repository/maven-DM/</url>
+<layout>default</layout>
+</repository>
+
 </project>
